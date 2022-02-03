@@ -1,2 +1,2 @@
 # Customer-Segmentation
-An unsupervised Learning approach for customer segmentation
+Unsupervised Learning techniques; KMeans, DBSCAN and GMM for customer segmentation
